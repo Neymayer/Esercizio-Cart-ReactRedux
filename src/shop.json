@@ -1,0 +1,46 @@
+[
+  {
+    "img": "/images/item1.png",
+    "name": "Ray-Ban Wayfarer",
+    "ID": "RB3210 2112A",
+    "price": 121.6,
+    "sizes": [
+      { "size": 50, "quantity": 2 },
+      { "size": 52, "quantity": 3 }
+    ]
+  },
+  {
+    "img": "/images/item2.png",
+    "name": "Ray-Ban Round",
+    "ID": "RB9210 1149",
+    "price": 166.0,
+    "sizes": [
+      { "size": 50, "quantity": 1 },
+      { "size": 52, "quantity": 3 }
+    ]
+  },
+  {
+    "img": "/images/item3.png",
+    "name": "Ray-Ban Clubmaster",
+    "ID": "RB3594 9093C8 53",
+    "price": 152.0,
+    "sizes": [
+      { "size": 50, "quantity": 2 },
+      { "size": 52, "quantity": 3 }
+    ]
+  },
+  {
+    "img": "/images/item4.png",
+    "name": "Ray-Ban RB3594",
+    "ID": "RB3594 2345 53",
+    "price": 250.9,
+    "sizes": [{ "size": 53, "quantity": 2 }]
+  },
+  {
+    "img": "/images/item5.png",
+    "name": "Ray-Ban Aviator",
+    "ID": "RB6211 5122A 50",
+    "price": 150.9,
+    "sizes": [{ "size": 53, "quantity": 2 }]
+  }
+]
